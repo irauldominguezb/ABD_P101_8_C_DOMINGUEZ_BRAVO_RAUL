@@ -1,0 +1,18 @@
+uuid = e01a4152-b825-11ee-a1c0-080027308074
+name = 
+tool_name = xtrabackup
+tool_command = --backup --target-dir=/home/adb/ABD_P101_8_C_DOMINGUEZ_BRAVO_RAUL/base
+tool_version = 8.0.35-30
+ibbackup_version = 8.0.35-30
+server_version = 8.0.35-0ubuntu0.22.04.1
+start_time = 2024-01-21 06:25:28
+end_time = 2024-01-21 06:25:30
+lock_time = 0
+binlog_pos = filename 'binlog.000020', position '157'
+innodb_from_lsn = 0
+innodb_to_lsn = 21687681
+partial = N
+incremental = N
+format = file
+compressed = N
+encrypted = N
