@@ -7,7 +7,7 @@ email VARCHAR(255) NOT NULL
 CREATE TABLE orders (
 order_id INT AUTO_INCREMENT PRIMARY KEY,
 product_id INT NOT NULL,
-order_date DATE NOT NULL
+order_date varchar(255) NOT NULL
 );
 CREATE TABLE products (
 product_id INT AUTO_INCREMENT PRIMARY KEY,
