@@ -2,8 +2,6 @@ CREATE DATABASE mydatabase;
 USE mydatabase;
 CREATE TABLE customers (
 
-P102. Realizando Copias de Seguridad Selectivas con mysqldump en MySQL 2
-
 id INT AUTO_INCREMENT PRIMARY KEY,
 name VARCHAR(255) NOT NULL,
 email VARCHAR(255) NOT NULL
