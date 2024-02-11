@@ -1,7 +1,5 @@
-CREATE DATABASE mydatabase;
-USE mydatabase;
-CREATE TABLE customers (
 
+CREATE TABLE customers (
 id INT AUTO_INCREMENT PRIMARY KEY,
 name VARCHAR(255) NOT NULL,
 email VARCHAR(255) NOT NULL
